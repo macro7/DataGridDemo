@@ -1,0 +1,8 @@
+D:\Githb\DotNetDemo\DataGridViewRowStylezDemo\bin\Debug\TestDataGridViewRowStyle.exe
+D:\Githb\DotNetDemo\DataGridViewRowStylezDemo\bin\Debug\TestDataGridViewRowStyle.pdb
+D:\Githb\DotNetDemo\DataGridViewRowStylezDemo\obj\Debug\TestDataGridViewRowStyle.Form1.resources
+D:\Githb\DotNetDemo\DataGridViewRowStylezDemo\obj\Debug\TestDataGridViewRowStyle.Properties.Resources.resources
+D:\Githb\DotNetDemo\DataGridViewRowStylezDemo\obj\Debug\DataGridViewRowStyle.csproj.GenerateResource.cache
+D:\Githb\DotNetDemo\DataGridViewRowStylezDemo\obj\Debug\DataGridViewRowStyle.csproj.CoreCompileInputs.cache
+D:\Githb\DotNetDemo\DataGridViewRowStylezDemo\obj\Debug\TestDataGridViewRowStyle.exe
+D:\Githb\DotNetDemo\DataGridViewRowStylezDemo\obj\Debug\TestDataGridViewRowStyle.pdb

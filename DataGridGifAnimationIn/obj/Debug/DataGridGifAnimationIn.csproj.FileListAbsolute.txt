@@ -1,0 +1,8 @@
+D:\Githb\DotNetDemo\DataGridGifAnimationIn\bin\Debug\GifAnimationInDataGrid.exe
+D:\Githb\DotNetDemo\DataGridGifAnimationIn\bin\Debug\GifAnimationInDataGrid.pdb
+D:\Githb\DotNetDemo\DataGridGifAnimationIn\obj\Debug\GifAnimationInDataGrid.frmMain.resources
+D:\Githb\DotNetDemo\DataGridGifAnimationIn\obj\Debug\GifAnimationInDataGrid.Properties.Resources.resources
+D:\Githb\DotNetDemo\DataGridGifAnimationIn\obj\Debug\DataGridGifAnimationIn.csproj.GenerateResource.cache
+D:\Githb\DotNetDemo\DataGridGifAnimationIn\obj\Debug\DataGridGifAnimationIn.csproj.CoreCompileInputs.cache
+D:\Githb\DotNetDemo\DataGridGifAnimationIn\obj\Debug\GifAnimationInDataGrid.exe
+D:\Githb\DotNetDemo\DataGridGifAnimationIn\obj\Debug\GifAnimationInDataGrid.pdb
